@@ -4,6 +4,8 @@
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
 
+[백준 1300 k번째 수 골드4](https://github.com/youngpark17/AlgorithmWithPython/commit/027158e15472a922f406535f2d3ed80f9b2cf0f3)
+이분탐색
 
 [백준 10757](https://github.com/youngpark17/AlgorithmWithPython/blob/master/BOJ_10757.py)
 
