@@ -3,6 +3,8 @@
 ![](https://i.imgur.com/XXXUt41.jpg)
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
+[백준 1717 집합의 표현 골드4](https://github.com/youngpark17/AlgorithmWithPython/commit/153dd88241795ad5f691768ff412612d93538f82)
+disjoint-set
 
 [백준 2583 영역구하기 실버1](https://github.com/youngpark17/AlgorithmWithPython/commit/37dbf37fe5745ae61293ddcf3d1459bff702e1bd)
 dfs,bfs
