@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/XXXUt41.jpg)
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
+[백준 1976 여행가자 골드4](https://github.com/youngpark17/AlgorithmWithPython/commit/bf188caa2186afb52c5b4a2d8ab758831db33e16)
+disjoint-set
+
 [백준 1717 집합의 표현 골드4](https://github.com/youngpark17/AlgorithmWithPython/commit/153dd88241795ad5f691768ff412612d93538f82)
 disjoint-set
 
