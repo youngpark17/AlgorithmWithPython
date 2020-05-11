@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/XXXUt41.jpg)
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
+[백준 10026 적록색약 골드5 dfs](https://github.com/youngpark17/AlgorithmWithPython/commit/3095ab6cf828edf17c37eed865058e8c81d88843)
+dfs
+
 [백준 2665 미로 만들기 골드4 bfs](https://github.com/youngpark17/AlgorithmWithPython/commit/6b5648b2fc0dc7ac61dab6c7e9ffd4022c522c0e)
 bfs
 
