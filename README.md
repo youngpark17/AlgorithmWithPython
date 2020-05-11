@@ -3,6 +3,8 @@
 ![](https://i.imgur.com/XXXUt41.jpg)
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
+[백준 2665 미로 만들기 골드4 bfs](https://github.com/youngpark17/AlgorithmWithPython/commit/6b5648b2fc0dc7ac61dab6c7e9ffd4022c522c0e)
+bfs
 
 [백준 11003 최솟값찾기 플레5](https://github.com/youngpark17/AlgorithmWithPython)
 슬라이딩 윈도우
