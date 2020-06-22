@@ -3,6 +3,9 @@
 ![](https://i.imgur.com/XXXUt41.jpg)
 ![](https://i.imgur.com/esVpcLO.jpg)
 ![](https://i.imgur.com/KgQSBsz.png)
+[백준 1065, 1520](https://github.com/youngpark17/AlgorithmWithPython/commit/fa3838b9901c7f74aef182ca8a83d3045c6c3f35)
+dfs, 구현
+
 [백준 10026 적록색약 골드5 dfs](https://github.com/youngpark17/AlgorithmWithPython/commit/3095ab6cf828edf17c37eed865058e8c81d88843)
 dfs
 
